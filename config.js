@@ -12,7 +12,7 @@ global.location = 'Kerala IN'
 global.gurl = 'https://instagram.com/' // add your username
 global.sudo = process.env.SUDO || '17757667154'
 global.devs = '17757667154';
-global.website = 'https://github.com/SamPandey001/Secktor-Md' //wa.me/+91000000000000
+global.website = 'https://am1uth.netlify.app' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
 module.exports = {
   botname:   process.env.BOT_NAME === undefined ? '𝘿𝞢𝝯𝞘𝙇 𝙎𝞢𝞒' : process.env.BOT_NAME,
@@ -44,7 +44,7 @@ module.exports = {
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? 'zeropgg' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
-  LANG: process.env.THEME|| 'DEVILSER',
+  LANG: process.env.THEME|| 'SECKTOR',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
 };
 
