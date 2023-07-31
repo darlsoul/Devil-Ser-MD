@@ -1,0 +1,55 @@
+{
+  "__JSON__": true,
+  "AUTHOR": "am1uth ",
+  "LANGUAGE": "English",
+  "LANGCODE": "en",
+  "STRINGS": {
+      "updater": {
+          "UPDATE": "*Ithippo puthan a ello pinnenthina update cheyyunne*",
+          "NEW_UPDATE": "*Puthiyoru update und!*\n\n*Mattangal:*\n",
+          "UPDATED_LOCAL": "*Update aayi!*"
+      },
+      "global": {
+          "botName": " Powered by Devil-Ser",
+          "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
+          "greet2" : "Sir",
+          "pic1": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/new/first.jpg",
+          "pic2": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/new/second.jpg",
+          "pic3": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/new/third.jpg",
+          "pic4": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/new/fourth.jpg",
+          "pic5": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/new/fifth.jpg",
+          "pic6": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/new/sixth.jpg",
+          "pic7": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/new/seventh.jpg",
+           "greet" : "Edey ",
+         "dotbody" : "*_Njan ivde unde!_*",
+          "promote": "*_Ninne njan admin akki😜_*",
+          "pmallow": "*Hii*,\n*Njan Idhehathinte Numberil kadann kudiyan Bot aan*.*\nMy Idheham ippol busy aan.\n Message ayacholu Pinne Nokkikkolum.\n\n_Message ayachale njan ariyikkum👍_",
+          "pmblock": "❌ Ninne Nirodhichu*\n\n Personal ayi message ayakkunnavare ith nirodhichirikkunnu.\n\n" ,
+          "pmwarn": "✋Hii* \nSpam ayi message aakkaruthu, njan nirodhikkum. _Ninakk ${checkPermit.times} warning(s) Kitti._\n\n ",
+          "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n *Powered by Secktor", 
+          "revoked" : "*Hii ${tname} Sir*\n\nYour pm permit permission has been prevoked now.\n\n _Powered by Secktor_",
+          "demote": "Uhh,Admin Role Taken back",
+          "antlink": "Link Detected.\n*Good Bye Sir*",
+          "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by Secktor*",
+          "mention": "*Areya mention cheyyende*",
+          "title": "Devil-Ser",
+          "footer": "Devil-Ser",
+          "by": "Made by: *Devil-Ser*",
+          "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+          "success": "okeyaanu ✓",
+          "dot": "No udheshichath *help?* aano",
+          "couple_male": "*I dont want to die alone,I want a female*",
+          "couple_female": "*I dont want to die alone,I want a male*",
+          "admin": "*Group admin vendiyaanu ee command*⚠️!",
+          "botAdmin": "*Njan admin alla😢❗*",
+          "owner": "*_Ith ninakk pattiya command alla_*🤌⚠️",
+          "group": "*_Ith group command aanu mwonu_*❗",
+          "private": "*_aruth owner command aan_* ⚠️",
+          "bot": "*Bot Number use cheyyendathaan* ⚠️",
+          "wait": "*Ippo tharave...* ✅" 
+      },
+      "error": {
+          "text": "*Evideyokkeyo Enthokkeyo Prashnam undallo🤔*"
+      }
+  }
+}
