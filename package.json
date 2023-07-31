@@ -68,10 +68,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/darlsoul/DevilSer-Md.git"
+                 "url": "git+https://github.com/darlsoul/Devil-Ser-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/darlsoul/DevilSer-Md/issues"
+                 "url": "https://github.com/darlsoul/Devil-Ser-MD/issues"
                   },
-                 "homepage": "https://github.com/darlsoul/DevilSer-Md#readme"
+                 "homepage": "https://github.com/darlsoul/Devil-Ser-MD#readme"
                   }
